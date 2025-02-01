@@ -1,0 +1,129 @@
+.carousel-game{
+  position: relative;
+}
+
+.button-login{
+  position: absolute;
+  top: 20px;
+  right: 2rem;
+  z-index: 10;
+  padding-inline: 3rem;
+  border-color: black;
+  border-width: 3px;
+  background-color: rgb(46, 48, 142);
+  color: white;
+  font-family:Roboto ;
+}
+
+.carousel-caption.rounded-caption {
+  background-color: rgba(0, 0, 0, 0.6); 
+  border-radius: 15px; 
+  padding: 20px; 
+  display: inline-block; 
+  width: 900px;
+}
+
+.custom-img-wt {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 75%; 
+}
+
+.custom-img-fh {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 50%; 
+}
+
+.custom-img-ml {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 30%; 
+}
+
+.custom-img-got {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 40%; 
+}
+
+.custom-img-tlou {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 30%; 
+}
+
+.custom-img-rdr{
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 15%; 
+}
+
+.custom-img-re {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 15%; 
+}
+
+.custom-img-cod {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 25%; 
+}
+
+.custom-img-hz {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 50%; 
+}
+
+.custom-img-mesm {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 30%; 
+}
+
+.custom-img-sm {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 15%; 
+}
+
+.custom-img-t {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 25%; 
+}
+
+.custom-img-mk {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 25%; 
+}
+
+.custom-img-swjs {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 25%; 
+}
+
+.custom-img-gowR {
+  width: 100%;         
+  height: 450px;       
+  object-fit: cover;   
+  object-position: 0% 50%; 
+}
