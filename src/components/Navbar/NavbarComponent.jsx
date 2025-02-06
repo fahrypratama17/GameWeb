@@ -50,7 +50,7 @@ function NavbarComponent ({resetView, onSearch}) {
               navbarScroll
             >
               <Nav.Link className="menu-navbar" href="#home" onClick={resetView}>Home</Nav.Link>
-              <Nav.Link className="menu-navbar" href="#action2">Link</Nav.Link>
+              {/* <Nav.Link className="menu-navbar" href="#action2">Link</Nav.Link>
               <NavDropdown title="Link" id="navbarScrollingDropdown">
                 <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action4">
@@ -63,7 +63,7 @@ function NavbarComponent ({resetView, onSearch}) {
               </NavDropdown>
               <Nav.Link className="menu-navbar" href="#" disabled>
                 Link
-              </Nav.Link>
+              </Nav.Link> */}
             </Nav>
             <Form className="search d-flex" onSubmit={(e) => e.preventDefault()}>
               <Form.Control
